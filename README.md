@@ -1,6 +1,6 @@
 # Tentang Saya
 Nama&emsp;&emsp;&emsp;&emsp;&emsp;:&emsp;Benedictus Bimo Cahyo Wicaksono</br>
-Universitas&nbsp;&nbsp;&nbsp;&emsp;&nbsp;&emsp;:&emsp;Sepuluh Nopember Institute of Technology</br>
+Universitas&nbsp;&nbsp;&nbsp;&emsp;:&emsp;Sepuluh Nopember Institute of Technology</br>
 Gelar&nbsp;&nbsp;&nbsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;:&emsp;Bachelor's degree</br>
 Program Studi&nbsp;&nbsp;&emsp;:&emsp;Informatics Engineering</br>
 NIM&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;:&emsp;5025201097</br>
